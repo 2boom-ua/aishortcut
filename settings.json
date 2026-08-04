@@ -1,0 +1,1044 @@
+{
+  "metadata": {
+    "exportDate": "2026-06-26T13:38:07.259Z",
+    "version": "1.0",
+    "description": "The Start Page settings",
+    "format": "single-file"
+  },
+  "data": {
+    "one": {
+      "1:0": {
+        "link": "https://www.overclockers.ua/",
+        "name": "Overclockers",
+        "icon": "/icons/over.svg",
+        "ficon": "/icons/favicons/mtv.svg"
+      },
+      "1:1": {
+        "link": "https://itc.ua/",
+        "name": "ITC",
+        "icon": "/icons/itc.svg",
+        "ficon": "/icons/favicons/mtv.svg"
+      },
+      "1:10": {
+        "link": "https://lb.ua/",
+        "name": "Lb",
+        "icon": "/icons/lb.svg",
+        "ficon": "/icons/favicons/mnews.svg"
+      },
+      "1:11": {
+        "link": "https://durdom.in.ua/",
+        "name": "Durdom",
+        "icon": "/icons/durdom.svg",
+        "ficon": "/icons/favicons/mnews.svg"
+      },
+      "1:12": {
+        "link": "https://censor.net.ua/",
+        "name": "Censor",
+        "icon": "/icons/censor.svg",
+        "ficon": "/icons/favicons/mnews.svg"
+      },
+      "1:13": {
+        "link": "https://www.radiosvoboda.org/",
+        "name": "Radiosvoboda",
+        "icon": "/icons/radiosvoboda.svg",
+        "ficon": "/icons/favicons/mnews.svg"
+      },
+      "1:14": {
+        "link": "https://www.ukrinform.ua/",
+        "name": "Ukrinform",
+        "icon": "/icons/ukrinform.svg",
+        "ficon": "/icons/favicons/mnews.svg"
+      },
+      "1:15": {
+        "link": "https://glavcom.ua/",
+        "name": "Glavcom",
+        "icon": "/icons/glavcom.svg",
+        "ficon": "/icons/favicons/mnews.svg"
+      },
+      "1:16": {
+        "link": "https://zn.ua/",
+        "name": "Zn",
+        "icon": "/icons/znua.svg",
+        "ficon": "/icons/favicons/mnews.svg"
+      },
+      "1:17": {
+        "link": "https://militarnyi.com/uk/",
+        "name": "Militarnyi",
+        "icon": "/icons/militarnyi.svg",
+        "ficon": "/icons/favicons/mnews.svg"
+      },
+      "1:18": {
+        "link": "https://www.lostfilm.tv/news.php",
+        "name": "Lostfilm",
+        "icon": "/icons/lf.svg",
+        "ficon": "/icons/favicons/mtor.svg"
+      },
+      "1:19": {
+        "link": "https://tracker.0day.community/browse.php",
+        "name": "0day",
+        "icon": "/icons/0day.svg",
+        "ficon": "/icons/favicons/mtor.svg"
+      },
+      "1:2": {
+        "link": "https://gagadget.com/",
+        "name": "Gagadget",
+        "icon": "/icons/gigag.svg",
+        "ficon": "/icons/favicons/mtv.svg"
+      },
+      "1:20": {
+        "link": "https://nnmclub.to/forum/index.php",
+        "name": "Nnmclub",
+        "icon": "/icons/nnm.svg",
+        "ficon": "/icons/favicons/mtor.svg"
+      },
+      "1:21": {
+        "link": "https://rutracker.org/forum/index.php",
+        "name": "Rutracker",
+        "icon": "/icons/rutr.svg",
+        "ficon": "/icons/favicons/mtor.svg"
+      },
+      "1:22": {
+        "link": "http://rutor.is/top",
+        "name": "Rutor",
+        "icon": "/icons/rt.svg",
+        "ficon": "/icons/favicons/mtor.svg"
+      },
+      "1:23": {
+        "link": "https://noted.lol/",
+        "name": "Noted",
+        "icon": "/icons/noted.svg",
+        "ficon": "/icons/favicons/mself.svg"
+      },
+      "1:24": {
+        "link": "https://selfh.st/",
+        "name": "Selfh",
+        "icon": "/icons/selfh.svg",
+        "ficon": "/icons/favicons/mself.svg"
+      },
+      "1:25": {
+        "link": "https://github.com/topics/self-hosted?o=desc&s=updated",
+        "name": "Self-hosted",
+        "icon": "/icons/github.svg",
+        "ficon": "/icons/favicons/mself.svg"
+      },
+      "1:26": {
+        "link": "https://dietpi.com/forum/",
+        "name": "Dietpi",
+        "icon": "/icons/dietpi.svg",
+        "ficon": "/icons/favicons/mdebian.svg"
+      },
+      "1:27": {
+        "link": "https://www.softexia.com/",
+        "name": "Softexia",
+        "icon": "/icons/softexia.svg",
+        "ficon": "/icons/favicons/mtv.svg"
+      },
+      "1:28": {
+        "link": "https://www.tomshardware.com/",
+        "name": "Tomshardware",
+        "icon": "/icons/th.svg",
+        "ficon": "/icons/favicons/mtv.svg"
+      },
+      "1:29": {
+        "link": "https://www.neowin.net/",
+        "name": "Neowin",
+        "icon": "/icons/neowin.svg",
+        "ficon": "/icons/favicons/mtv.svg"
+      },
+      "1:3": {
+        "link": "https://mezha.media/",
+        "name": "Mezha",
+        "icon": "/icons/mezha.svg",
+        "ficon": "/icons/favicons/mtv.svg"
+      },
+      "1:30": {
+        "link": "https://www.techpowerup.com/",
+        "name": "Techpowerup",
+        "icon": "/icons/tech.svg",
+        "ficon": "/icons/favicons/mtv.svg"
+      },
+      "1:31": {
+        "link": "https://win.softpedia.com/",
+        "name": "Softpedia",
+        "icon": "/icons/softp.svg",
+        "ficon": "/icons/favicons/mtv.svg"
+      },
+      "1:32": {
+        "link": "https://www.bitdoze.com/",
+        "name": "Bitdoze",
+        "icon": "/icons/bitdoze.svg",
+        "ficon": "/icons/favicons/mself.svg"
+      },
+      "1:33": {
+        "link": "https://medium.com/",
+        "name": "Medium",
+        "icon": "/icons/medium.svg",
+        "ficon": "/icons/favicons/mmedium.svg"
+      },
+      "1:34": {
+        "link": "https://www.quora.com/",
+        "name": "Quora",
+        "icon": "/icons/quora.svg",
+        "ficon": "/icons/favicons/mquora.svg"
+      },
+      "1:35": {
+        "link": "https://www.reddit.com/",
+        "name": "Reddit",
+        "icon": "/icons/reddit.svg",
+        "ficon": "/icons/favicons/mreddit.svg"
+      },
+      "1:36": {
+        "link": "https://www.svgrepo.com/",
+        "name": "SVG Repo",
+        "icon": "/icons/svgrepo.svg",
+        "ficon": "/icons/favicons/edit.svg"
+      },
+      "1:37": {
+        "link": "https://thesvg.org/",
+        "name": "Thessvg",
+        "icon": "/icons/thesvg.svg",
+        "ficon": "/icons/favicons/edit.svg"
+      },
+      "1:38": {
+        "link": "https://weather.com/uk-UA/weather/today/l/UPXX0486:1:UP?Goto=Redirected",
+        "name": "The Weather",
+        "icon": "/icons/TWC.svg",
+        "ficon": "/icons/favicons/monedrive.svg"
+      },
+      "1:4": {
+        "link": "https://hi-tech.ua/novosti/",
+        "name": "Hi-tech",
+        "icon": "/icons/hi-tech.svg",
+        "ficon": "/icons/favicons/mtv.svg"
+      },
+      "1:5": {
+        "link": "https://root-nation.com/ua/",
+        "name": "Root-nation",
+        "icon": "/icons/rootn.svg",
+        "ficon": "/icons/favicons/mtv.svg"
+      },
+      "1:6": {
+        "link": "https://highload.tech/",
+        "name": "Highload",
+        "icon": "/icons/highload.svg",
+        "ficon": "/icons/favicons/mtv.svg"
+      },
+      "1:7": {
+        "link": "https://wvclub.net/forum/",
+        "name": "Wvclub",
+        "icon": "/icons/wv.svg",
+        "ficon": "/icons/favicons/mforum.svg"
+      },
+      "1:8": {
+        "link": "https://realpython.com/",
+        "name": "Realpython",
+        "icon": "/icons/rpython.svg",
+        "ficon": "/icons/favicons/mdevices.svg"
+      },
+      "1:9": {
+        "link": "https://www.pravda.com.ua/",
+        "name": "Pravda",
+        "icon": "/icons/up.svg",
+        "ficon": "/icons/favicons/mnews.svg"
+      }
+    },
+    "two": {
+      "2:0": {
+        "link": "https://seller.rozetka.com.ua/main/orders/all?page=1&sort=-id&pageSize=20&types=1",
+        "name": "Rozetka.Admin",
+        "icon": "/icons/rozetka.svg",
+        "ficon": "/icons/favicons/mshop.svg"
+      },
+      "2:1": {
+        "link": "https://onestore.kyiv.ua/wp-admin/edit.php?post_type=shop_order",
+        "name": "OneStore.Admin",
+        "icon": "/icons/onestore.svg",
+        "ficon": "/icons/favicons/mshop.svg"
+      },
+      "2:10": {
+        "link": "https://ek.ua/",
+        "name": "EKatalog",
+        "icon": "/icons/ekua.svg",
+        "ficon": "/icons/favicons/mshop.svg"
+      },
+      "2:11": {
+        "link": "https://www.olx.ua/",
+        "name": "Olx",
+        "icon": "/icons/olxua.svg",
+        "ficon": "/icons/favicons/mshop.svg"
+      },
+      "2:12": {
+        "link": "https://hotline.ua/",
+        "name": "Hotline",
+        "icon": "/icons/hotline.svg",
+        "ficon": "/icons/favicons/mshop.svg"
+      },
+      "2:13": {
+        "link": "https://npshopping.com/",
+        "name": "Npshopping",
+        "icon": "/icons/np.svg",
+        "ficon": "/icons/favicons/mshop.svg"
+      },
+      "2:14": {
+        "link": "https://prom.ua/",
+        "name": "Prom",
+        "icon": "/icons/prom.svg",
+        "ficon": "/icons/favicons/mshop.svg"
+      },
+      "2:15": {
+        "link": "https://rozetka.com.ua/",
+        "name": "Rozetka",
+        "icon": "/icons/srozetka.svg",
+        "ficon": "/icons/favicons/mshop.svg"
+      },
+      "2:16": {
+        "link": "https://www.aliexpress.com/",
+        "name": "Aliexpress",
+        "icon": "/icons/alie.svg",
+        "ficon": "/icons/favicons/mshop.svg"
+      },
+      "2:17": {
+        "link": "https://sneakernews.com/",
+        "name": "Sneakernews",
+        "icon": "/icons/sn.svg",
+        "ficon": "/icons/favicons/mshop.svg"
+      },
+      "2:18": {
+        "link": "https://en.zalando.de/",
+        "name": "Zalando.DE",
+        "icon": "/icons/zalando.svg",
+        "ficon": "/icons/favicons/mshop.svg"
+      },
+      "2:19": {
+        "link": "https://www.zalando-lounge.de/",
+        "name": "Lounge.DE",
+        "icon": "/icons/lounge-z-de.svg",
+        "ficon": "/icons/favicons/mshop.svg"
+      },
+      "2:2": {
+        "link": "https://4gconnect.store/wp-admin/edit.php?post_type=shop_order",
+        "name": "4GConnect.Admin",
+        "icon": "/icons/4gc.svg",
+        "ficon": "/icons/favicons/mshop.svg"
+      },
+      "2:20": {
+        "link": "https://www.zalando.fr/accueil-homme/?_rfl=fr",
+        "name": "Zalando.FR",
+        "icon": "/icons/zalando.svg",
+        "ficon": "/icons/favicons/mshop.svg"
+      },
+      "2:21": {
+        "link": "https://www.zalando-prive.fr/event",
+        "name": "Prive.FR",
+        "icon": "/icons/prive-z-fr.svg",
+        "ficon": "/icons/favicons/mshop.svg"
+      },
+      "2:22": {
+        "link": "https://www.levi.com/US/en_US/",
+        "name": "Levi's.US",
+        "icon": "/icons/levis.svg",
+        "ficon": "/icons/favicons/mshop.svg"
+      },
+      "2:23": {
+        "link": "https://www.nike.com/de/",
+        "name": "Nike.DE",
+        "icon": "/icons/nike.svg",
+        "ficon": "/icons/favicons/mshop.svg"
+      },
+      "2:24": {
+        "link": "https://www.adidas.com/us",
+        "name": "Adidas.US",
+        "icon": "/icons/adidas.svg",
+        "ficon": "/icons/favicons/mshop.svg"
+      },
+      "2:25": {
+        "link": "https://www.newbalance.com/",
+        "name": "New Balance",
+        "icon": "/icons/nb.svg",
+        "ficon": "/icons/favicons/mshop.svg"
+      },
+      "2:26": {
+        "link": "https://www.esdemarca.com/de/",
+        "name": "Esdemarca",
+        "icon": "/icons/esd.svg",
+        "ficon": "/icons/favicons/mshop.svg"
+      },
+      "2:27": {
+        "link": "https://www.boozt.com/de/en",
+        "name": "Boozt",
+        "icon": "/icons/bootz.svg",
+        "ficon": "/icons/favicons/mshop.svg"
+      },
+      "2:28": {
+        "link": "https://www.booztlet.com/de/de/herren",
+        "name": "Booztlet",
+        "icon": "/icons/bootzlet.svg",
+        "ficon": "/icons/favicons/mshop.svg"
+      },
+      "2:29": {
+        "link": "https://www.asos.com/de/herren/",
+        "name": "Asos",
+        "icon": "/icons/asos.svg",
+        "ficon": "/icons/favicons/mshop.svg"
+      },
+      "2:3": {
+        "link": "https://www.wv.ua/ua/admin/products/edit/27",
+        "name": "WV.Admin",
+        "icon": "/icons/wv.svg",
+        "ficon": "/icons/favicons/mshop.svg"
+      },
+      "2:30": {
+        "link": "https://www.endclothing.com/eu",
+        "name": "End.",
+        "icon": "/icons/end.svg",
+        "ficon": "/icons/favicons/mshop.svg"
+      },
+      "2:31": {
+        "link": "https://en.afew-store.com/",
+        "name": "Afew",
+        "icon": "/icons/afew.svg",
+        "ficon": "/icons/favicons/mshop.svg"
+      },
+      "2:32": {
+        "link": "https://en.aboutyou.de/",
+        "name": "About You",
+        "icon": "/icons/aboutyou.svg",
+        "ficon": "/icons/favicons/mshop.svg"
+      },
+      "2:33": {
+        "link": "https://www.solebox.com/de-de/",
+        "name": "Solebox",
+        "icon": "/icons/solebox.svg",
+        "ficon": "/icons/favicons/mshop.svg"
+      },
+      "2:34": {
+        "link": "https://www.skatedeluxe.com/de",
+        "name": "Skatedeluxe",
+        "icon": "/icons/skatedeluxe.svg",
+        "ficon": "/icons/favicons/mshop.svg"
+      },
+      "2:35": {
+        "link": "https://www.replayjeans.com/de/en/",
+        "name": "Replay",
+        "icon": "/icons/replay.svg",
+        "ficon": "/icons/favicons/mshop.svg"
+      },
+      "2:36": {
+        "link": "https://www.g-star.com/en_de",
+        "name": "G-Star Raw",
+        "icon": "/icons/g-star.svg",
+        "ficon": "/icons/favicons/mshop.svg"
+      },
+      "2:37": {
+        "link": "https://www.sneakersquad.nl/",
+        "name": "Sneakersquad",
+        "icon": "/icons/squad.svg",
+        "ficon": "/icons/favicons/mshop.svg"
+      },
+      "2:38": {
+        "link": "https://www.everysize.com/",
+        "name": "Eversize.",
+        "icon": "/icons/eversize.svg",
+        "ficon": "/icons/favicons/mshop.svg"
+      },
+      "2:39": {
+        "link": "https://prm.com/ua/ru/c/vin",
+        "name": "PRM",
+        "icon": "/icons/prm.svg",
+        "ficon": "/icons/favicons/mshop.svg"
+      },
+      "2:4": {
+        "link": "https://partner.allo.ua/orders/",
+        "name": "Алло.Admin",
+        "icon": "/icons/allo.svg",
+        "ficon": "/icons/favicons/mshop.svg"
+      },
+      "2:40": {
+        "link": "https://answear.ua/",
+        "name": "Answear",
+        "icon": "/icons/answear.svg",
+        "ficon": "/icons/favicons/mshop.svg"
+      },
+      "2:41": {
+        "link": "https://md-fashion.ua/",
+        "name": "MD Fashion",
+        "icon": "/icons/mdfashion.svg",
+        "ficon": "/icons/favicons/mshop.svg"
+      },
+      "2:42": {
+        "link": "https://ultra-shop.com/ua",
+        "name": "UltraShop",
+        "icon": "/icons/ultrashop.svg",
+        "ficon": "/icons/favicons/mshop.svg"
+      },
+      "2:43": {
+        "link": "https://github.com/2boom-ua?tab=repositories",
+        "name": "Github",
+        "icon": "/icons/github.svg",
+        "ficon": "/icons/favicons/mself.svg"
+      },
+      "2:44": {
+        "link": "https://salesdot.megarost2.de/index.php",
+        "name": "Megarost",
+        "icon": "/icons/sdot.svg",
+        "ficon": "/icons/favicons/page.svg"
+      },
+      "2:5": {
+        "link": "https://account.ek.ua/shop/",
+        "name": "EKatalog.Admin",
+        "icon": "/icons/ek.svg",
+        "ficon": "/icons/favicons/mshop.svg"
+      },
+      "2:6": {
+        "link": "https://hotline.ua/cabinet/20116/",
+        "name": "Hotline.Admin",
+        "icon": "/icons/hotline.svg",
+        "ficon": "/icons/favicons/mshop.svg"
+      },
+      "2:7": {
+        "link": "https://shara.tv/iptv.html",
+        "name": "Shara",
+        "icon": "/icons/shara.svg",
+        "ficon": "/icons/favicons/mtv.svg"
+      },
+      "2:8": {
+        "link": "https://auth.adm.tools/uk/",
+        "name": "Adm.tools",
+        "icon": "/icons/admtools.svg",
+        "ficon": "/icons/favicons/page.svg"
+      },
+      "2:9": {
+        "link": "https://epicentrk.ua/",
+        "name": "Epicentrk",
+        "icon": "/icons/ecentr.svg",
+        "ficon": "/icons/favicons/mshop.svg"
+      }
+    },
+    "three": {
+      "3:0": {
+        "link": "https://cockpit.nuc10.kyiv.ua/",
+        "name": "Cockpit",
+        "icon": "/icons/cockpit.svg",
+        "ficon": "/icons/favicons/mdebian.svg"
+      },
+      "3:1": {
+        "link": "https://adguard.nuc10.kyiv.ua/",
+        "name": "Adguard",
+        "icon": "/icons/adguard.svg",
+        "ficon": "/icons/favicons/fadguard.svg"
+      },
+      "3:10": {
+        "link": "https://fb.nuc10.kyiv.ua/",
+        "name": "Filebrowser",
+        "icon": "/icons/FileBro.svg",
+        "ficon": "/icons/favicons/mdocker.svg"
+      },
+      "3:11": {
+        "link": "https://cloudcmd.nuc10.kyiv.ua/",
+        "name": "CloudCMD",
+        "icon": "/icons/cloudcmd.svg",
+        "ficon": "/icons/favicons/mdocker.svg"
+      },
+      "3:12": {
+        "link": "https://syncthing.nuc10.kyiv.ua/",
+        "name": "Syncthing",
+        "icon": "/icons/syncthing.svg",
+        "ficon": "/icons/favicons/fsyncsyng.svg"
+      },
+      "3:13": {
+        "link": "https://share.nuc10.kyiv.ua/",
+        "name": "Pingvin share",
+        "icon": "/icons/pingvin.svg",
+        "ficon": "/icons/favicons/mdocker.svg"
+      },
+      "3:14": {
+        "link": "https://wgui.nuc10.kyiv.ua/",
+        "name": "Wireguard",
+        "icon": "/icons/wireguard.svg",
+        "ficon": "/icons/favicons/mdocker.svg"
+      },
+      "3:15": {
+        "link": "https://memos.nuc10.kyiv.ua/",
+        "name": "Memos",
+        "icon": "/icons/memos.svg",
+        "ficon": "/icons/favicons/mdocker.svg"
+      },
+      "3:16": {
+        "link": "https://draw.nuc10.kyiv.ua/",
+        "name": "Excalidraw",
+        "icon": "/icons/excalidraw.svg",
+        "ficon": "/icons/favicons/mdocker.svg"
+      },
+      "3:17": {
+        "link": "https://pdf-tools.nuc10.kyiv.ua/",
+        "name": "Bento PDF",
+        "icon": "/icons/stirling.svg",
+        "ficon": "/icons/favicons/mdocker.svg"
+      },
+      "3:18": {
+        "link": "https://sonarr.nuc10.kyiv.ua/",
+        "name": "Sonarr",
+        "icon": "/icons/sonarr.svg",
+        "ficon": "/icons/favicons/farr.svg"
+      },
+      "3:19": {
+        "link": "https://radarr.nuc10.kyiv.ua/",
+        "name": "Radarr",
+        "icon": "/icons/radarr.svg",
+        "ficon": "/icons/favicons/farr.svg"
+      },
+      "3:2": {
+        "link": "https://portainer.nuc10.kyiv.ua/",
+        "name": "Portainer",
+        "icon": "/icons/portainer.svg",
+        "ficon": "/icons/favicons/mdocker.svg"
+      },
+      "3:20": {
+        "link": "https://lidarr.nuc10.kyiv.ua/",
+        "name": "Lidarr",
+        "icon": "/icons/lidarr.svg",
+        "ficon": "/icons/favicons/farr.svg"
+      },
+      "3:21": {
+        "link": "https://prowlarr.nuc10.kyiv.ua/",
+        "name": "Prowlarr",
+        "icon": "/icons/Prowlarr.svg",
+        "ficon": "/icons/favicons/farr.svg"
+      },
+      "3:22": {
+        "link": "https://jackett.nuc10.kyiv.ua/",
+        "name": "Jackett",
+        "icon": "/icons/jackett.svg",
+        "ficon": "/icons/favicons/mdocker.svg"
+      },
+      "3:23": {
+        "link": "https://transmission.nuc10.kyiv.ua/",
+        "name": "Transmission",
+        "icon": "/icons/transmission.svg",
+        "ficon": "/icons/favicons/mdocker.svg"
+      },
+      "3:24": {
+        "link": "https://abook.nuc10.kyiv.ua/",
+        "name": "Audiobook",
+        "icon": "/icons/audiobook.svg",
+        "ficon": "/icons/favicons/mdocker.svg"
+      },
+      "3:25": {
+        "link": "https://jelly.nuc10.kyiv.ua/web/index.html",
+        "name": "Jellyfin",
+        "icon": "/icons/jellyfin.svg",
+        "ficon": "/icons/favicons/fjellyfin.svg"
+      },
+      "3:26": {
+        "link": "https://jellyseerr.nuc10.kyiv.ua/",
+        "name": "Seerr",
+        "icon": "/icons/seerr.svg",
+        "ficon": "/icons/favicons/mdocker.svg"
+      },
+      "3:27": {
+        "link": "https://navidrome.nuc10.kyiv.ua/",
+        "name": "Navidrome",
+        "icon": "/icons/navidrome.svg",
+        "ficon": "/icons/favicons/fnavidrome.svg"
+      },
+      "3:28": {
+        "link": "https://immich.nuc10.kyiv.ua/",
+        "name": "Immich",
+        "icon": "/icons/immich.svg",
+        "ficon": "/icons/favicons/fimmich.svg"
+      },
+      "3:29": {
+        "link": "https://owui.nuc10.kyiv.ua/",
+        "name": "Ollama",
+        "icon": "/icons/olama.svg",
+        "ficon": "/icons/favicons/follama.svg"
+      },
+      "3:3": {
+        "link": "https://dockge.nuc10.kyiv.ua/",
+        "name": "Dockge",
+        "icon": "/icons/dockge.svg",
+        "ficon": "/icons/favicons/mdocker.svg"
+      },
+      "3:30": {
+        "link": "https://it-tools.nuc10.kyiv.ua/",
+        "name": "IT tools",
+        "icon": "/icons/ittools.svg",
+        "ficon": "/icons/favicons/mdocker.svg"
+      },
+      "3:31": {
+        "link": "https://watchdigest.nuc10.kyiv.ua/",
+        "name": "Watchdigest",
+        "icon": "/icons/watchdiget.svg",
+        "ficon": "/icons/favicons/fwd.svg"
+      },
+      "3:32": {
+        "link": "https://checkservices.nuc10.kyiv.ua/",
+        "name": "CheckServices",
+        "icon": "/icons/service.svg",
+        "ficon": "/icons/favicons/fsch.svg"
+      },
+      "3:33": {
+        "link": "https://mpnjson.nuc10.kyiv.ua/",
+        "name": "mpnJSON",
+        "icon": "/icons/mpnjson.svg",
+        "ficon": "/icons/favicons/fmpjson.svg"
+      },
+      "3:34": {
+        "link": "https://filehub.nuc10.kyiv.ua/",
+        "name": "FileHub",
+        "icon": "/icons/filehub.svg",
+        "ficon": "/icons/favicons/mforum.svg"
+      },
+      "3:35": {
+        "link": "http://176.38.141.147:777/",
+        "name": "Keenetic",
+        "icon": "/icons/keenetic.svg",
+        "ficon": "/icons/favicons/page.svg"
+      },
+      "3:36": {
+        "link": "http://192.168.1.34:8501/",
+        "name": "Radio ND",
+        "icon": "/icons/rm.svg",
+        "ficon": "/icons/favicons/fnavidrome.svg"
+      },
+      "3:37": {
+        "link": "https://messages.nuc10.kyiv.ua/",
+        "name": "Webntfy",
+        "icon": "/icons/webntfy.svg",
+        "ficon": "/icons/favicons/fwebntfy.svg"
+      },
+      "3:38": {
+        "link": "https://nuc10.kyiv.ua/",
+        "name": "Sysmon",
+        "icon": "/icons/sysmon.svg",
+        "ficon": "/icons/favicons/fsysmon.svg"
+      },
+      "3:39": {
+        "link": "https://serverapp.nuc10.kyiv.ua/",
+        "name": "ServerApps",
+        "icon": "/icons/serverapps.svg",
+        "ficon": "/icons/favicons/fserverapp.svg"
+      },
+      "3:4": {
+        "link": "https://dockermon.nuc10.kyiv.ua/",
+        "name": "Dockermon",
+        "icon": "/icons/dockermon.svg",
+        "ficon": "/icons/favicons/mdocker.svg"
+      },
+      "3:5": {
+        "link": "https://dozzle.nuc10.kyiv.ua/",
+        "name": "Dozzle",
+        "icon": "/icons/dozzle.svg",
+        "ficon": "/icons/favicons/mdocker.svg"
+      },
+      "3:6": {
+        "link": "https://vaultw.nuc10.kyiv.ua/",
+        "name": "Vaultwarden",
+        "icon": "/icons/Vaultwarden.svg",
+        "ficon": "/icons/favicons/mdocker.svg"
+      },
+      "3:7": {
+        "link": "https://nginxui.nuc10.kyiv.ua/",
+        "name": "Nginx UI",
+        "icon": "/icons/nginxui.svg",
+        "ficon": "/icons/favicons/mnews.svg"
+      },
+      "3:8": {
+        "link": "https://cronm.nuc10.kyiv.ua/",
+        "name": "Cronmaster",
+        "icon": "/icons/cronmaster.svg",
+        "ficon": "/icons/favicons/mdocker.svg"
+      },
+      "3:9": {
+        "link": "https://nuc10.kyiv.ua/nextcloud",
+        "name": "Nextcloud",
+        "icon": "/icons/nextcloud_b.svg",
+        "ficon": "/icons/favicons/fnextcloud.svg"
+      }
+    },
+    "four": {
+      "4:0": {
+        "link": "https://www.google.com/",
+        "name": "Google",
+        "icon": "/icons/wGoogle.svg",
+        "ficon": "/icons/favicons/msearch.svg"
+      },
+      "4:1": {
+        "link": "https://gmail.com/",
+        "name": "Gmail",
+        "icon": "/icons/wGmail.svg",
+        "ficon": "/icons/favicons/mmail.svg"
+      },
+      "4:10": {
+        "link": "https://drive.google.com/drive/my-drive",
+        "name": "Drive",
+        "icon": "/icons/wDrive.svg",
+        "ficon": "/icons/favicons/mgdrive.svg"
+      },
+      "4:11": {
+        "link": "https://i.ua/",
+        "name": "UA.fm",
+        "icon": "/icons/fmua.svg",
+        "ficon": "/icons/favicons/mmail.svg"
+      },
+      "4:12": {
+        "link": "https://www.bing.com/",
+        "name": "Bing",
+        "icon": "/icons/wBing.svg",
+        "ficon": "/icons/favicons/msearch.svg"
+      },
+      "4:13": {
+        "link": "https://outlook.live.com/mail/0/",
+        "name": "Outlook",
+        "icon": "/icons/wOutlook.svg",
+        "ficon": "/icons/favicons/mmail.svg"
+      },
+      "4:14": {
+        "link": "https://www.office.com/launch/excel/",
+        "name": "Excel",
+        "icon": "/icons/wExcel.svg",
+        "ficon": "/icons/favicons/mmoffice.svg"
+      },
+      "4:15": {
+        "link": "https://www.office.com/launch/word/",
+        "name": "Word",
+        "icon": "/icons/wWord.svg",
+        "ficon": "/icons/favicons/mmoffice.svg"
+      },
+      "4:16": {
+        "link": "https://www.onenote.com/",
+        "name": "OneNote",
+        "icon": "/icons/wOnenote.svg",
+        "ficon": "/icons/favicons/mmoffice.svg"
+      },
+      "4:17": {
+        "link": "https://www.office.com/launch/powerpoint/",
+        "name": "PowerPoint",
+        "icon": "/icons/wPowerpoint.svg",
+        "ficon": "/icons/favicons/mmoffice.svg"
+      },
+      "4:18": {
+        "link": "https://onedrive.live.com/",
+        "name": "OneDrive",
+        "icon": "/icons/wOnedrive.svg",
+        "ficon": "/icons/favicons/monedrive.svg"
+      },
+      "4:19": {
+        "link": "https://map.baidu.com/",
+        "name": "Baidu map",
+        "icon": "/icons/baidu.svg",
+        "ficon": "/icons/favicons/mmaps.svg"
+      },
+      "4:2": {
+        "link": "https://www.youtube.com/",
+        "name": "YouTube",
+        "icon": "/icons/wYouTube.svg",
+        "ficon": "/icons/favicons/myoutube.svg"
+      },
+      "4:20": {
+        "link": "https://www.bing.com/maps/",
+        "name": "Bing map",
+        "icon": "/icons/bingmap.svg",
+        "ficon": "/icons/favicons/mmaps.svg"
+      },
+      "4:21": {
+        "link": "https://www.google.com/maps/",
+        "name": "Google map",
+        "icon": "/icons/wMaps.svg",
+        "ficon": "/icons/favicons/mmaps.svg"
+      },
+      "4:22": {
+        "link": "https://www.openstreetmap.org/",
+        "name": "Open map",
+        "icon": "/icons/osm.svg",
+        "ficon": "/icons/favicons/mmaps.svg"
+      },
+      "4:23": {
+        "link": "https://teams.live.com/",
+        "name": "Teams",
+        "icon": "/icons/teams.svg",
+        "ficon": "/icons/favicons/mteams.svg"
+      },
+      "4:24": {
+        "link": "https://web.whatsapp.com/",
+        "name": "WhatsApp",
+        "icon": "/icons/wWhatsApp.svg",
+        "ficon": "/icons/favicons/mwhatsapp.svg"
+      },
+      "4:25": {
+        "link": "https://web.telegram.org/",
+        "name": "Telegram",
+        "icon": "/icons/wTelegram.svg",
+        "ficon": "/icons/favicons/mtelegram.svg"
+      },
+      "4:26": {
+        "link": "https://web.wechat.com/?lang=en",
+        "name": "WeChat",
+        "icon": "/icons/wWechat.svg",
+        "ficon": "/icons/favicons/mwechat.svg"
+      },
+      "4:27": {
+        "link": "https://claude.ai/",
+        "name": "Cloude",
+        "icon": "/icons/cloude.svg",
+        "ficon": "/icons/favicons/mcloude.svg"
+      },
+      "4:28": {
+        "link": "https://grok.com/",
+        "name": "Grock",
+        "icon": "/icons/grok.svg",
+        "ficon": "/icons/favicons/mgrok.svg"
+      },
+      "4:29": {
+        "link": "https://chat.deepseek.com/",
+        "name": "DeepSeek",
+        "icon": "/icons/deepseek.svg",
+        "ficon": "/icons/favicons/mdeeps.svg"
+      },
+      "4:3": {
+        "link": "https://photos.google.com/",
+        "name": "Photos",
+        "icon": "/icons/wPhotos.svg",
+        "ficon": "/icons/favicons/mphotos.svg"
+      },
+      "4:30": {
+        "link": "https://chat.openai.com/",
+        "name": "ChatGPT",
+        "icon": "/icons/gpt.svg",
+        "ficon": "/icons/favicons/mai.svg"
+      },
+      "4:31": {
+        "link": "https://gemini.google.com/app",
+        "name": "Gemeni",
+        "icon": "/icons/gemeni.svg",
+        "ficon": "/icons/favicons/mgem.svg"
+      },
+      "4:32": {
+        "link": "https://copilot.microsoft.com/",
+        "name": "Copilot",
+        "icon": "/icons/copilot.svg",
+        "ficon": "/icons/favicons/mcop.svg"
+      },
+      "4:33": {
+        "link": "https://www.perplexity.ai/",
+        "name": "Perplexity",
+        "icon": "/icons/perplexity.svg",
+        "ficon": "/icons/favicons/mperplexity.svg"
+      },
+      "4:34": {
+        "link": "https://chat.mistral.ai/",
+        "name": "Mistral",
+        "icon": "/icons/mistral.svg",
+        "ficon": "/icons/favicons/mmistral.svg"
+      },
+      "4:35": {
+        "link": "https://chat.qwen.ai/",
+        "name": "Qwen",
+        "icon": "/icons/qwen.svg",
+        "ficon": "/icons/favicons/mqwen.svg"
+      },
+      "4:36": {
+        "link": "https://chat.z.ai/",
+        "name": "Zhipu",
+        "icon": "/icons/zai.svg",
+        "ficon": "/icons/favicons/fzai.svg"
+      },
+      "4:37": {
+        "link": "https://www.kimi.com/",
+        "name": "Kimi",
+        "icon": "/icons/kimi.svg",
+        "ficon": "/icons/favicons/mkimi.svg"
+      },
+      "4:4": {
+        "link": "https://translate.google.com/",
+        "name": "Translate",
+        "icon": "/icons/wTranslate.svg",
+        "ficon": "/icons/favicons/mtranslate.svg"
+      },
+      "4:5": {
+        "link": "https://contacts.google.com/",
+        "name": "Contacts",
+        "icon": "/icons/wContacts.svg",
+        "ficon": "/icons/favicons/mcontacts.svg"
+      },
+      "4:6": {
+        "link": "https://keep.google.com/",
+        "name": "Keep",
+        "icon": "/icons/wKeep.svg",
+        "ficon": "/icons/favicons/mgoffice.svg"
+      },
+      "4:7": {
+        "link": "https://docs.google.com/document/u/0/",
+        "name": "Docs",
+        "icon": "/icons/wDocs.svg",
+        "ficon": "/icons/favicons/mgoffice.svg"
+      },
+      "4:8": {
+        "link": "https://docs.google.com/spreadsheets/u/0/",
+        "name": "Sheets",
+        "icon": "/icons/wSheets.svg",
+        "ficon": "/icons/favicons/mgoffice.svg"
+      },
+      "4:9": {
+        "link": "https://meet.google.com/",
+        "name": "Meet",
+        "icon": "/icons/wMeet.svg",
+        "ficon": "/icons/favicons/mgoffice.svg"
+      }
+    },
+    "quicklinks": {
+      "0:0": {
+        "link": "https://google.com/",
+        "name": "empty",
+        "icon": "/icons/launcher/google.svg",
+        "ficon": "empty"
+      },
+      "0:1": {
+        "link": "https://youtube.com/",
+        "name": "empty",
+        "icon": "/icons/launcher/youtube.svg",
+        "ficon": "empty"
+      },
+      "0:2": {
+        "link": "https://gmail.com/",
+        "name": "empty",
+        "icon": "/icons/launcher/gmail.svg",
+        "ficon": "empty"
+      },
+      "0:3": {
+        "link": "https://mbox2.i.ua/",
+        "name": "empty",
+        "icon": "/icons/launcher/iua.svg",
+        "ficon": "empty"
+      },
+      "0:4": {
+        "link": "https://translate.google.com/",
+        "name": "empty",
+        "icon": "/icons/launcher/translate.svg",
+        "ficon": "empty"
+      },
+      "0:5": {
+        "link": "https://www.google.com/maps/",
+        "name": "empty",
+        "icon": "/icons/launcher/maps.svg",
+        "ficon": "empty"
+      }
+    }
+  },
+  "stats": {
+    "totalApps": 162,
+    "totalQuickLinks": 6,
+    "totalItems": 168,
+    "sections": {
+      "one": 39,
+      "two": 45,
+      "three": 40,
+      "four": 38,
+      "quicklinks": 6
+    }
+  },
+  "filehub": {
+    "domain": "https://filehub.nuc10.kyiv.ua",
+    "apikey": "P3ypk86eyjZ3TxT6ovkxOFIq"
+  }
+}
