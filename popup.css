@@ -5,6 +5,8 @@
     --item-hover: #e7e7e7;
     --border: #e5e5e5;
     --shadow: rgba(0, 0, 0, 0.08);
+    --link-icon-filter: brightness(0) saturate(100%) invert(52%) sepia(50%) saturate(501%) hue-rotate(79deg) brightness(99%) contrast(89%);
+    --icon-filter: brightness(0) saturate(100%) invert(64%) sepia(15%) saturate(0%) hue-rotate(212deg) brightness(97%) contrast(101%);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -18,8 +20,6 @@
     }
 }
 
-
-
 * {
     margin: 0;
     padding: 0;
@@ -29,7 +29,7 @@
 body {
     background: var(--bg);
     color: var(--text);
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-family: "Segoe UI Variable", "Segoe UI", system-ui, sans-serif;
     font-size: 13px;
     width: 280px;
     padding: 0;
@@ -42,8 +42,9 @@ body {
 
 .menu-item {
     display: flex;
+    position: relative;
     align-items: center;
-    padding: 4px 14px;
+    padding: 6px 14px;
     text-decoration: none;
     color: var(--text);
     cursor: pointer;
@@ -52,6 +53,18 @@ body {
     transition: background 0.12s;
     border-radius: 8px;
     margin: 1px 0;    
+}
+
+.menu-item .link-icon {
+    display: none;
+    width: 16px;
+    height: 16px;
+    flex-shrink: 0;
+    filter: var(--icon-filter);
+}
+
+.menu-item:hover .link-icon {
+    display: block;
 }
 
 .menu-item:hover {
@@ -66,7 +79,8 @@ body {
 .menu-item img {
     width: 28px;
     height: 28px;
-    flex-shrink: 0;   
+    flex-shrink: 0;
+    filter: var(--link-icon-filter);
 }
 
 .menu-item .info {
@@ -78,9 +92,9 @@ body {
 }
 
 .menu-item .name {
-    font-weight: 500;
+    font-weight: 600;
     font-size: 14px;
-    line-height: 1.4;
+    line-height: 1.3;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
@@ -93,7 +107,7 @@ body {
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
-    line-height: 1.3;
+    line-height: 1.2;
     margin-top: 1px;
 }
 

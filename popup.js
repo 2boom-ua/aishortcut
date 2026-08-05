@@ -29,6 +29,7 @@
             html += `<span class="name">${app.data.name}</span>`;
             html += `<span class="url">${link}</span>`;
             html += `</div>`;
+            html += `<img src="/icons/link.svg" class="link-icon" alt="link">`;
             html += `</a>`;
         });
         
