@@ -16,6 +16,21 @@
             }
         }
         
+        let stats = JSON.parse(localStorage.getItem('menu_clicks') || '{}');
+        
+        for (let key in stats) {
+            if (!fourData[key]) {
+                delete stats[key];
+            }
+        }
+        localStorage.setItem('menu_clicks', JSON.stringify(stats));
+        
+        apps.sort((a, b) => {
+            const countA = stats[a.key] || 0;
+            const countB = stats[b.key] || 0;
+            return countB - countA;
+        });
+        
         let html = '';
         
         apps.forEach((app, index) => {
@@ -23,7 +38,7 @@
             if (link.endsWith('/')) {
                 link = link.slice(0, -1);
             }
-            html += `<a href="${app.data.link}" target="_blank" class="menu-item" data-index="${index}">`;
+            html += `<a href="${app.data.link}" target="_blank" class="menu-item" data-index="${index}" data-key="${app.key}">`;
             html += `<img src="${app.data.icon}" alt="${app.data.name}" loading="lazy">`;
             html += `<div class="info">`;
             html += `<span class="name">${app.data.name}</span>`;
@@ -34,6 +49,15 @@
         });
         
         container.innerHTML = html;
+        
+        document.querySelectorAll('.menu-item').forEach(item => {
+            item.addEventListener('click', function(e) {
+                const key = this.dataset.key;
+                let stats = JSON.parse(localStorage.getItem('menu_clicks') || '{}');
+                stats[key] = (stats[key] || 0) + 1;
+                localStorage.setItem('menu_clicks', JSON.stringify(stats));
+            });
+        });
         
         console.log(`✓ Loaded ${apps.length} menu items`);
         
