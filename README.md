@@ -1,6 +1,12 @@
+<div align="center">  
+    <img src="https://github.com/2boom-ua/aishortcut/blob/main/icons/icon-128.png?raw=true" alt="" width="128" height="128">
+</div>
+
 # AI Shortcuts
 
 A lightweight browser extension that provides quick access to frequently used websites and services from a compact popup menu.
+
+![Version](https://img.shields.io/badge/version-2.4-green.svg)
 
 ## Features
 
