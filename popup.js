@@ -4,22 +4,20 @@
     try {
         let response = await fetch("settings.json");
         let data = await response.json();
-        const fourData = data.data.four;
         
         const container = document.getElementById('menu-container');
         
         const apps = [];
-        for (let i = 27; i < 38; i++) {
-            const key = `4:${i}`;
-            if (fourData[key]) {
-                apps.push({ key, data: fourData[key] });
+        for (let key in data) {
+            if (data.hasOwnProperty(key)) {
+                apps.push({ key, data: data[key] });
             }
         }
         
         let stats = JSON.parse(localStorage.getItem('menu_clicks') || '{}');
         
         for (let key in stats) {
-            if (!fourData[key]) {
+            if (!data[key]) {
                 delete stats[key];
             }
         }
