@@ -1,8 +1,8 @@
 {
   "0": {
     "link": "https://claude.ai/",
-    "name": "Cloude",
-    "icon": "/icons/cloude.svg"
+    "name": "Claude",
+    "icon": "/icons/claude.svg"
   },
   "1": {
     "link": "https://grok.com/",
@@ -21,8 +21,8 @@
   },
   "4": {
     "link": "https://gemini.google.com/",
-    "name": "Gemeni",
-    "icon": "/icons/gemeni.svg"
+    "name": "Gemini",
+    "icon": "/icons/gemini.svg"
   },
   "5": {
     "link": "https://copilot.microsoft.com/",
@@ -50,7 +50,7 @@
     "icon": "/icons/zai.svg"
   },
   "10": {
-    "link": "https://www.kimi.com/",
+    "link": "https://www.kimi.ai/",
     "name": "Kimi",
     "icon": "/icons/kimi.svg"
   }
